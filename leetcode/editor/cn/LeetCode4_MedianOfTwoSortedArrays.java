@@ -72,38 +72,7 @@ public class LeetCode4_MedianOfTwoSortedArrays {
     class Solution {
         public double findMedianSortedArrays(int[] nums1, int[] nums2) {
             double res = 0L;
-            LinkedList<Integer> list = new LinkedList<>();
-            for (int j : nums1) {
-                list.add(j);
-            }
-            if (list.size() > 0) {
-                for (int k : nums2) {
-
-                    for (int j = 0; j < list.size(); j++) {
-                        if (k >= list.get(j) && j == list.size() - 1) {
-                            list.add(k);
-                            break;
-                        } else if (k >= list.get(j) && k < list.get(j + 1)) {
-                            list.add(j + 1, k);
-                            break;
-                        } else if (k < list.get(j)) {
-                            list.add(0, k);
-                            break;
-                        }
-                    }
-                }
-            } else {
-                for (int k : nums2) {
-                    list.add(k);
-                }
-            }
-            int len = list.size();
-            if (len % 2 == 0) {
-                res = list.get(len / 2 - 1) + list.get(len / 2);
-                res /= 2;
-            } else {
-                res = list.get(len / 2);
-            }
+            
             return res;
         }
 
