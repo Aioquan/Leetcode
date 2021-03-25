@@ -60,7 +60,7 @@ public class LeetCode1716_CalculateMoneyInLeetcodeBank {
             return sum;
         }
 
-//        public int totalMoney(int n) {
+//82        public int totalMoney(int n) {
 //            int day=n%7,week=n/7;
 //            return ((day+1)*day)/2+day*week+(((week+7)*week)/2)*7;
 //        }
