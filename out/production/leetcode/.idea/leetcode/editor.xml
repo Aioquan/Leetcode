@@ -3,187 +3,59 @@
   <component name="LeetcodeEditor">
     <option name="projectConfig">
       <map>
-        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/23-MergeKSortedLists.java">
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/LeetCode66_PlusOne.java">
           <value>
             <LeetcodeEditor>
-              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/23-MergeKSortedLists.java" />
-              <option name="questionId" value="23" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/LeetCode66_PlusOne.java" />
+              <option name="questionId" value="66" />
             </LeetcodeEditor>
           </value>
         </entry>
-        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/GenerateParentheses.java">
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/LeetCode21_MergeTwoSortedLists.java">
           <value>
             <LeetcodeEditor>
-              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/GenerateParentheses.java" />
-              <option name="questionId" value="22" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/LeetCode21_MergeTwoSortedLists.java" />
+              <option name="questionId" value="21" />
             </LeetcodeEditor>
           </value>
         </entry>
-        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/One32Pattern.java">
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/LeetCode27_RemoveElement.java">
           <value>
             <LeetcodeEditor>
-              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/One32Pattern.java" />
-              <option name="questionId" value="456" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/LeetCode27_RemoveElement.java" />
+              <option name="questionId" value="27" />
             </LeetcodeEditor>
           </value>
         </entry>
-        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/SortCharactersByFrequency.java">
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/LeetCode28_ImplementStrstr.java">
           <value>
             <LeetcodeEditor>
-              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/SortCharactersByFrequency.java" />
-              <option name="questionId" value="451" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/LeetCode28_ImplementStrstr.java" />
+              <option name="questionId" value="28" />
             </LeetcodeEditor>
           </value>
         </entry>
-        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/TwoSum.java">
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/LeetCode35_SearchInsertPosition.java">
           <value>
             <LeetcodeEditor>
-              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/TwoSum.java" />
-              <option name="questionId" value="1" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/LeetCode35_SearchInsertPosition.java" />
+              <option name="questionId" value="35" />
             </LeetcodeEditor>
           </value>
         </entry>
-        <entry key="$PROJECT_DIR$/leetcode/editor/cn/22-GenerateParentheses.java">
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/LeetCode53_MaximumSubarray.java">
           <value>
             <LeetcodeEditor>
-              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/22-GenerateParentheses.java" />
-              <option name="questionId" value="22" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/LeetCode53_MaximumSubarray.java" />
+              <option name="questionId" value="53" />
             </LeetcodeEditor>
           </value>
         </entry>
-        <entry key="$PROJECT_DIR$/leetcode/editor/cn/341-FlattenNestedListIterator.java">
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/LeetCode58_LengthOfLastWord.java">
           <value>
             <LeetcodeEditor>
-              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/341-FlattenNestedListIterator.java" />
-              <option name="questionId" value="341" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/leetcode/editor/cn/456_One32Pattern.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/456_One32Pattern.java" />
-              <option name="questionId" value="456" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/leetcode/editor/cn/LeetCode1006_ClumsyFactorial.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/LeetCode1006_ClumsyFactorial.java" />
-              <option name="questionId" value="1048" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/leetcode/editor/cn/LeetCode13_RomanToInteger.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/LeetCode13_RomanToInteger.java" />
-              <option name="questionId" value="13" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/leetcode/editor/cn/LeetCode1576_ReplaceAllSToAvoidConsecutiveRepeatingCharacters.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/LeetCode1576_ReplaceAllSToAvoidConsecutiveRepeatingCharacters.java" />
-              <option name="questionId" value="1698" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/leetcode/editor/cn/LeetCode1716_CalculateMoneyInLeetcodeBank.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/LeetCode1716_CalculateMoneyInLeetcodeBank.java" />
-              <option name="questionId" value="1817" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/leetcode/editor/cn/LeetCode26_RemoveDuplicatesFromSortedArray.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/LeetCode26_RemoveDuplicatesFromSortedArray.java" />
-              <option name="questionId" value="26" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/leetcode/editor/cn/LeetCode415_AddStrings.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/LeetCode415_AddStrings.java" />
-              <option name="questionId" value="415" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/leetcode/editor/cn/LeetCode456_One32Pattern.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/LeetCode456_One32Pattern.java" />
-              <option name="questionId" value="456" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/leetcode/editor/cn/LeetCode4_MedianOfTwoSortedArrays.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/LeetCode4_MedianOfTwoSortedArrays.java" />
-              <option name="questionId" value="4" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/leetcode/editor/cn/LeetCode7_ReverseInteger.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/LeetCode7_ReverseInteger.java" />
-              <option name="questionId" value="7" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/leetcode/editor/cn/LeetCode80_RemoveDuplicatesFromSortedArrayIi.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/LeetCode80_RemoveDuplicatesFromSortedArrayIi.java" />
-              <option name="questionId" value="80" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/leetcode/editor/cn/LeetCode82_RemoveDuplicatesFromSortedListIi.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/LeetCode82_RemoveDuplicatesFromSortedListIi.java" />
-              <option name="questionId" value="82" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/leetcode/editor/cn/LeetCode9_PalindromeNumber.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/LeetCode9_PalindromeNumber.java" />
-              <option name="questionId" value="9" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/leetcode/editor/cn/LeetCode面试题 17.21_VolumeOfHistogramLcci.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/LeetCode面试题 17.21_VolumeOfHistogramLcci.java" />
-              <option name="questionId" value="1000029" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/leetcode/editor/cn/One32Pattern.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/One32Pattern.java" />
-              <option name="questionId" value="456" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/leetcode/editor/cn/leetcode/editor/cn/22-GenerateParentheses.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/leetcode/editor/cn/22-GenerateParentheses.java" />
-              <option name="questionId" value="22" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/LeetCode58_LengthOfLastWord.java" />
+              <option name="questionId" value="58" />
             </LeetcodeEditor>
           </value>
         </entry>
